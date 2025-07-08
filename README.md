@@ -1,0 +1,1 @@
+Projeto: Landing Page e eBook de Receitas Saudáveis ​​Este projeto simula a criação de um material digital completo, com: - Landing page responsiva em HTML/CSS - PDF interativo com receitas, guia nutricional e cardápio semanal - Design carruagens para conversão de leads 🔗 Link para visualizar: [em breve] 📄 Link para baixar o PDF: [http://127.0.0.1:5500/menu.pdf]
